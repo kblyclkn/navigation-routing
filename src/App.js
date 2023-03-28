@@ -10,13 +10,13 @@ function App() {
         </Button>
       </div>
       <div>
-        <Button danger>Buy now!</Button>
+        <Button danger outline>Buy now!</Button>
       </div>
       <div>
         <Button warning >See deal!</Button>
       </div>
       <div>
-        <Button secondary>Hide ads!</Button>
+        <Button secondary outline>Hide ads!</Button>
       </div>
       <div>
         <Button primary rounded>Ara</Button>
