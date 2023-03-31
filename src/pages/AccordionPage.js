@@ -1,6 +1,5 @@
 import React from "react";
 import { GoBell, GoAlert, GoDatabase, GoCloudDownload } from "react-icons/go";
-import Button from "./components/Button";
 import Accordion from "../components/Accordion";
 
 function AccordionPages() {
